@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Shillong",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-02-25T06:41:12.000Z",
+      "notes": "Nice 😊 ",
+      "position": {
+        "lat": "25.590755612437427",
+        "lng": "91.91848754882814"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Ha Long",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-07-22T07:03:20.062Z",
+      "notes": "one of the best  🤩 ",
+      "position": {
+        "lat": "20.951179993976236",
+        "lng": "107.08374023437501"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Leh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2019-07-25T12:16:59.000Z",
+      "notes": "",
+      "position": {
+        "lat": "33.87041555094183",
+        "lng": "77.71728515625001"
+      },
+      "id": 98443204
+    }
+  ]
+}
